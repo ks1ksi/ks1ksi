@@ -2,7 +2,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ksi990302)](https://solved.ac/ksi990302)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={ksi990302}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ksi990302&theme=cold)
 
 <!--
 **ks1ksi/ks1ksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
