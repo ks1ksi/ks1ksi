@@ -6,6 +6,7 @@
 
 > - 성균관대학교 컴퓨터교육과 2019.03~
 > - 성균관대학교 알고리즘 동아리 NPC 2022.09~
+> - 소프트웨어 마에스트로 14th 2023.03~
 
 <!--
 **ks1ksi/ks1ksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
