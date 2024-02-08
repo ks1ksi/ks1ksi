@@ -4,9 +4,10 @@
 
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ksi990302&theme=warm) -->
 
-> - 성균관대학교 컴퓨터교육과 2019.03~
-> - 성균관대학교 알고리즘 동아리 NPC 2022.09~
-> - 소프트웨어 마에스트로 14th 2023.03~
+- Sungkyunkwan Univ. Computer Education 2019.03 ~
+- Sungkyunkwan Univ. Algorithm Club NPC 2022.09 ~
+- Software Maestro 14th 2023.03 ~ 2023.11
+- LG CNS Software Engineer Intern @ AWS Launch Center 2024.01 ~ 2024.02
 
 <!--
 **ks1ksi/ks1ksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
