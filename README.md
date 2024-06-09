@@ -7,7 +7,7 @@
 |[Software Maestro 14th](https://swmaestro.org/)|2023.03 ~ 2023.11|
 |[LG CNS Software Engineer Intern](https://amazon-web-services.lgcns.com/) |2024.01 ~ 2024.02|
 |[SK Telecom DEVOCEAN YOUNG 3rd](https://devocean.sk.com/)|2024.02 ~|
-|[SAP Labs Korea Software Engineer Intern](https://www.sap.com/korea/about/labs-korea.html)|2024.07 ~|
+|[Toss Payments Server Developer](https://www.tosspayments.com/)|2024.07 ~|
 
 ### Algorithm
 
